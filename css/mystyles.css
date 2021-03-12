@@ -37,3 +37,8 @@ body {
 #image {padding: 0 300px
 	
 }
+header {  	font-family: 'Montserrat', sans-serif;
+    		text-align: center;
+    		color: #000000;
+   			background-color: white
+}
